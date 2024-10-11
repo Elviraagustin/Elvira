@@ -29,6 +29,7 @@ Perawatan Saluran Akar
 Cabut Gigi
 
 Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. 
+
 Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
 Konfirmasi:
 
