@@ -1,12 +1,12 @@
 PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI ELFREN
 
-![Screenshot 2024-10-11 130759](https://github.com/user-attachments/assets/668ecb39-13f0-4b46-836b-51729802d626)
-![Screenshot 2024-10-11 130827](https://github.com/user-attachments/assets/725d7dd8-8636-42b2-b0b0-ec7abaea9267)
-![Screenshot 2024-10-11 130841](https://github.com/user-attachments/assets/d52fe948-02df-4bca-8fca-3d829ab06ab3)
+![Screenshot 2024-10-11 132319](https://github.com/user-attachments/assets/26b4b224-e935-4250-9f14-5ae9633d0754)
+![Screenshot 2024-10-11 132338](https://github.com/user-attachments/assets/d5ef679c-2992-4bf9-9be3-30c78eefa92b)
+![Screenshot 2024-10-11 132351](https://github.com/user-attachments/assets/c5872df6-ca64-4d33-8869-ea8e50887021)
 
 TERMINAL
 
-![Screenshot 2024-10-11 130738](https://github.com/user-attachments/assets/f432c43f-d874-4e5f-bdf6-550447d9211b)
+![Screenshot 2024-10-11 132248](https://github.com/user-attachments/assets/615e7b95-79a3-4319-9997-1b3066d118f6)
 
 1. Login:
 - User telah memasukkan username yang telah tersedia : "Elfren".
@@ -16,7 +16,7 @@ TERMINAL
 2. Input Nama:
 - Sistem meminta user memasukkan nama.
 - User memasukkan nama: "Elvira"
-- Sistem menyapa user: "Halo, Elvira! Selamat datang di Elfren Dental Care."
+- Sistem mengucapkan: "Halo, Elvira! Selamat datang di Elfren Dental Care."
 
 3. Menu Perawatan:
 - Sistem menampilkan menu jenis perawatan:
