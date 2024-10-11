@@ -1,11 +1,31 @@
 PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI
 
-![Screenshot 2024-10-11 103841](https://github.com/user-attachments/assets/88b6fca1-e780-4676-8f18-804c13afc0d3)
-![Screenshot 2024-10-11 103905](https://github.com/user-attachments/assets/820a1cbd-08a3-4ec5-bc6d-b60fda370e0b)
+![Screenshot 2024-10-11 113727](https://github.com/user-attachments/assets/960ec217-08bb-47d9-add3-5df6277b898c)
+![Screenshot 2024-10-11 113800](https://github.com/user-attachments/assets/7b18208a-abfe-45bf-8c3c-a57916291c2c)
 
-![Screenshot 2024-10-11 104003](https://github.com/user-attachments/assets/a51f8de7-cefd-4a51-88ea-2a0c017c2317)
-![Screenshot 2024-10-11 104016](https://github.com/user-attachments/assets/45665856-483e-4380-867e-d54c91dc1bc5)
+TERMINAL
 
+![Screenshot 2024-10-11 113637](https://github.com/user-attachments/assets/a4f253c3-95bd-42db-acbc-9e354bde7746)
+
+1. Login:
+- User telah memasukkan username yang telah tersedia : "Elfren".
+- User memasukkan password yang telah tersedia : "Perawatan gigi terbaik".
+- Sistem menerima password dan menampilkan: "Login berhasil!"
+
+2. Input Nama:
+- Sistem meminta user memasukkan nama.
+- User memasukkan nama: "Elvira"
+- Sistem menyapa user: "Halo, Elvira! Selamat datang di Elfren Dental Care."
+
+3. Menu Perawatan:
+- Sistem menampilkan menu jenis perawatan:
+- Jenis Perawatan
+Konsultasi Behel
+Kontrol Behel
+Scaling
+Tambal Gigi Berlubang
+Perawatan Saluran Akar
+Cabut Gigi
 
 FLOWCHART
 
