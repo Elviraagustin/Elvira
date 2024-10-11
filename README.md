@@ -28,6 +28,7 @@ TERMINAL
 4. Memilih Jenis Perawatan:
 
 ![Screenshot 2024-10-11 204230](https://github.com/user-attachments/assets/1457d7f9-f3fa-4ed6-87ee-ab58d369088a)
+
 Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
 
 ![Screenshot 2024-10-11 204257](https://github.com/user-attachments/assets/b60d9a2b-8e3d-47ef-b9b2-74bde7e7a4d1)
