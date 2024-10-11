@@ -3,8 +3,9 @@ PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI ELFREN
 FLOWCHART
 
 ![Screenshot 2024-10-11 141431](https://github.com/user-attachments/assets/85ca6182-7b54-44c2-a0f5-71fb717f5c64)
+Gambar tersebut adalah flowchart dari program yang saya buat.
 
-TERMINAL
+OUTPUT
 
 ![Screenshot 2024-10-11 202959](https://github.com/user-attachments/assets/eee72503-7c51-4281-b4bf-26ee26d398fa)
 
