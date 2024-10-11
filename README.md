@@ -1,42 +1,44 @@
 PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI ELFREN
 
-![Screenshot 2024-10-11 132319](https://github.com/user-attachments/assets/26b4b224-e935-4250-9f14-5ae9633d0754)
-![Screenshot 2024-10-11 132338](https://github.com/user-attachments/assets/d5ef679c-2992-4bf9-9be3-30c78eefa92b)
-![Screenshot 2024-10-11 132351](https://github.com/user-attachments/assets/c5872df6-ca64-4d33-8869-ea8e50887021)
-
 TERMINAL
 
-![Screenshot 2024-10-11 132248](https://github.com/user-attachments/assets/615e7b95-79a3-4319-9997-1b3066d118f6)
+![Screenshot 2024-10-11 202959](https://github.com/user-attachments/assets/eee72503-7c51-4281-b4bf-26ee26d398fa)
 
 1. Login:
+
+![Screenshot 2024-10-11 203215](https://github.com/user-attachments/assets/e7b40c9d-e2a9-4499-ae55-cfc934275bd8)
 - User telah memasukkan username yang telah tersedia : "Elfren".
-- User memasukkan password yang telah tersedia : "Perawatan gigi terbaik".
-- Sistem menerima password dan menampilkan: "Login berhasil!"
+
+![Screenshot 2024-10-11 203255](https://github.com/user-attachments/assets/cf560b1e-8fe7-4e0a-91c9-0410efa3ce82)
+- User memasukkan password yang telah tersedia : "Perawatan gigi terbaik" dan setelah itu Sistem menerima password dan menampilkan: "Login berhasil!"
 
 2. Input Nama:
-- Sistem meminta user memasukkan nama.
-- User memasukkan nama: "Elvira"
-- Sistem mengucapkan: "Halo, Elvira! Selamat datang di Elfren Dental Care."
+
+![Screenshot 2024-10-11 203422](https://github.com/user-attachments/assets/6ce287bf-d9be-408f-bf80-d386ac4f0f70)
+- Sistem meminta user memasukkan nama,setelah itu User memasukkan nama: "Elvira" dan kemudian Sistem mengucapkan: "Halo, Elvira! Selamat datang di Elfren Dental Care."
 
 3. Menu Perawatan:
-- Sistem menampilkan menu jenis perawatan:
-- Jenis Perawatan
-Konsultasi Behel
-Kontrol Behel
-Scaling
-Tambal Gigi Berlubang
-Perawatan Saluran Akar
-Cabut Gigi
 
-Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. 
+![Screenshot 2024-10-11 203845](https://github.com/user-attachments/assets/c9f7d283-f91a-48da-a7f7-39756305231b)
+- Sistem menampilkan menu jenis perawatan: , Jenis Perawatan meliputi: Konsultasi Behel, Kontrol Behel, Scaling, Tambal Gigi Berlubang, Perawatan Saluran Akar, dan Cabut Gigi.
 
-Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
+4. Memilih Jenis Perawatan:
+
+![Screenshot 2024-10-11 204230](https://github.com/user-attachments/assets/1457d7f9-f3fa-4ed6-87ee-ab58d369088a)
+
+Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
+
+![Screenshot 2024-10-11 204257](https://github.com/user-attachments/assets/b60d9a2b-8e3d-47ef-b9b2-74bde7e7a4d1)
 
 Setelah memilih, sistem mengucapkan terima kasih dan meminta pengguna untuk menunggu giliran untuk melakukan kontrol behel.
 
-Setelah memilih opsi menu nomor 2, Sistem memberikan opsi untuk kembali ke menu utama dengan pertanyaan "Apakah anda ingin kembali ke menu utama?".
+5. Opsi Untuk Kembali Ke Menu Utama:
 
-Pengguna memilih "n" (tidak), sehingga sistem mengucapkan terima kasih atas kunjungannya dan berharap keluhan pengguna segera teratasi.
+![Screenshot 2024-10-11 204557](https://github.com/user-attachments/assets/6e0bb54b-764c-4774-b7b3-68a3b318eb94)
+
+Setelah memilih opsi menu nomor 2, Sistem memberikan opsi untuk kembali ke menu utama dengan pertanyaan "Apakah anda ingin kembali ke menu utama?", dan Pengguna memilih "n" (tidak), sehingga sistem mengucapkan terima kasih atas kunjungannya dan berharap keluhan pengguna segera teratasi.
+
+![Screenshot 2024-10-11 204724](https://github.com/user-attachments/assets/b0339d55-ea8e-4169-a667-d04ef7db1b97)
 
 FLOWCHART
 
