@@ -33,6 +33,19 @@ PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI
 28. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai dipersilahkan masuk ke ruangan untuk mencabut gigi."
     
 ![Screenshot 2024-10-11 103905](https://github.com/user-attachments/assets/820a1cbd-08a3-4ec5-bc6d-b60fda370e0b)
+
+Jika pilihan tidak valid, terminal akan menampilkan:
+"Maaf daftar tidak tersedia."
+Jika input bukan angka, terminal akan menampilkan:
+"Input tidak valid. Silahkan masukkan angka yang sesuai."
+Terminal meminta input:
+"Apakah anda ingin kembali ke menu utama? (y/n): "
+User memasukkan 'y' atau 'n'.
+Jika user memasukkan 'y' (tidak case sensitive), program kembali ke langkah 9.
+Jika user memasukkan selain 'y', program berlanjut ke langkah berikutnya.
+Terminal menampilkan pesan penutup:
+"Terima kasih telah berkunjung, [nama]. Semoga keluhan anda segera teratasi!"
+Program selesai.
 ![Screenshot 2024-10-11 104003](https://github.com/user-attachments/assets/a51f8de7-cefd-4a51-88ea-2a0c017c2317)
 ![Screenshot 2024-10-11 104016](https://github.com/user-attachments/assets/45665856-483e-4380-867e-d54c91dc1bc5)
 
