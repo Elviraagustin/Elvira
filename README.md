@@ -1,11 +1,12 @@
 PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI
 
-![Screenshot 2024-10-11 113727](https://github.com/user-attachments/assets/960ec217-08bb-47d9-add3-5df6277b898c)
-![Screenshot 2024-10-11 113800](https://github.com/user-attachments/assets/7b18208a-abfe-45bf-8c3c-a57916291c2c)
+![Screenshot 2024-10-11 130759](https://github.com/user-attachments/assets/668ecb39-13f0-4b46-836b-51729802d626)
+![Screenshot 2024-10-11 130827](https://github.com/user-attachments/assets/725d7dd8-8636-42b2-b0b0-ec7abaea9267)
+![Screenshot 2024-10-11 130841](https://github.com/user-attachments/assets/d52fe948-02df-4bca-8fca-3d829ab06ab3)
 
 TERMINAL
 
-![Screenshot 2024-10-11 113637](https://github.com/user-attachments/assets/a4f253c3-95bd-42db-acbc-9e354bde7746)
+![Screenshot 2024-10-11 130738](https://github.com/user-attachments/assets/f432c43f-d874-4e5f-bdf6-550447d9211b)
 
 1. Login:
 - User telah memasukkan username yang telah tersedia : "Elfren".
@@ -26,6 +27,15 @@ Scaling
 Tambal Gigi Berlubang
 Perawatan Saluran Akar
 Cabut Gigi
+
+Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. 
+Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
+Konfirmasi:
+
+Setelah memilih, sistem mengucapkan terima kasih dan meminta pengguna untuk menunggu giliran untuk melakukan kontrol behel.
+
+Sistem memberikan opsi untuk kembali ke menu utama dengan pertanyaan "Apakah anda ingin kembali ke menu utama?".
+Pengguna memilih "n" (tidak), sehingga sistem mengucapkan terima kasih atas kunjungannya dan berharap keluhan pengguna segera teratasi.
 
 FLOWCHART
 
