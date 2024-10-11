@@ -21,31 +21,30 @@ PROGRAM SISTEM RESERVASI KLINIK DOKTER GIGI
 17. "4. Tambal Gigi Berlubang"
 18. "5. Perawatan Saluran Akar"
 19. "6. Cabut Gigi"
-20. Terminal meminta untuk memasukan keluhan :"Silahkan Pilih Keluhan Anda: "
-21. User memasukkan nomor pilihan.
-22. Berdasarkan pilihan user, terminal akan menampilkan salah satu dari pesan berikut:
+    
+![Screenshot 2024-10-11 103905](https://github.com/user-attachments/assets/820a1cbd-08a3-4ec5-bc6d-b60fda370e0b)
 
-32. "Terima kasih, [nama]. Untuk konsultasi behel bisa langsung masuk ke ruangan 1."
+20. Terminal meminta untuk memasukan keluhan :"Silahkan Pilih Keluhan Anda: "
+21. User memasukkan nomor pilihan sesuai keluhan yang dialami.
+22. Berdasarkan pilihan user, terminal akan menampilkan salah satu dari pesan berikut:
+23. "Terima kasih, [nama]. Untuk konsultasi behel bisa langsung masuk ke ruangan 1."
 24. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk kontrol behel."
 25. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk scaling."
 26. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk tambal gigi berlubang."
 27. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk perawatan saluran akar."
 28. "Terima kasih, [nama]. Silahkan menunggu giliran anda sampai dipersilahkan masuk ke ruangan untuk mencabut gigi."
     
-![Screenshot 2024-10-11 103905](https://github.com/user-attachments/assets/820a1cbd-08a3-4ec5-bc6d-b60fda370e0b)
-
-Jika pilihan tidak valid, terminal akan menampilkan:
-"Maaf daftar tidak tersedia."
-Jika input bukan angka, terminal akan menampilkan:
-"Input tidak valid. Silahkan masukkan angka yang sesuai."
-Terminal meminta input:
-"Apakah anda ingin kembali ke menu utama? (y/n): "
-User memasukkan 'y' atau 'n'.
-Jika user memasukkan 'y' (tidak case sensitive), program kembali ke langkah 9.
-Jika user memasukkan selain 'y', program berlanjut ke langkah berikutnya.
-Terminal menampilkan pesan penutup:
-"Terima kasih telah berkunjung, [nama]. Semoga keluhan anda segera teratasi!"
+29.Jika pilihan tidak valid, terminal akan menampilkan:"Maaf daftar tidak tersedia."
+30. Jika input bukan angka, terminal akan menampilkan:
+31. "Input tidak valid. Silahkan masukkan angka yang sesuai."
+32. Terminal meminta input: "Apakah anda ingin kembali ke menu utama? (y/n): "
+33. User memasukkan 'y' atau 'n'.
+34. Jika user memasukkan 'y' (tidak case sensitive), program kembali ke langkah 9.
+35. Jika user memasukkan selain 'y', program berlanjut ke langkah berikutnya.
+36. Terminal menampilkan pesan penutup:
+37. "Terima kasih telah berkunjung, [nama]. Semoga keluhan anda segera teratasi!"
 Program selesai.
+
 ![Screenshot 2024-10-11 104003](https://github.com/user-attachments/assets/a51f8de7-cefd-4a51-88ea-2a0c017c2317)
 ![Screenshot 2024-10-11 104016](https://github.com/user-attachments/assets/45665856-483e-4380-867e-d54c91dc1bc5)
 
