@@ -13,16 +13,19 @@ TERMINAL
 - Kemudian User memasukkan password yang telah tersedia : "Perawatan gigi terbaik" dan setelah itu Sistem menerima password dan menampilkan: "Login berhasil!"
 
 
+
 2. Input Nama:
 
 ![Screenshot 2024-10-11 203422](https://github.com/user-attachments/assets/6ce287bf-d9be-408f-bf80-d386ac4f0f70)
 - Sistem meminta user memasukkan nama,setelah itu User memasukkan nama: "Elvira" dan kemudian Sistem mengucapkan: "Halo, Elvira! Selamat datang di Elfren Dental Care."
 
 
+
 3. Menu Perawatan:
 
 ![Screenshot 2024-10-11 203845](https://github.com/user-attachments/assets/c9f7d283-f91a-48da-a7f7-39756305231b)
 - Sistem menampilkan menu jenis perawatan: , Jenis Perawatan meliputi: Konsultasi Behel, Kontrol Behel, Scaling, Tambal Gigi Berlubang, Perawatan Saluran Akar, dan Cabut Gigi.
+
 
 
 4. Memilih Jenis Perawatan:
@@ -33,6 +36,7 @@ Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan
 
 ![Screenshot 2024-10-11 204257](https://github.com/user-attachments/assets/b60d9a2b-8e3d-47ef-b9b2-74bde7e7a4d1)
 Setelah memilih, sistem mengucapkan terima kasih dan meminta pengguna untuk menunggu giliran untuk melakukan kontrol behel.
+
 
 
 5. Opsi Untuk Kembali Ke Menu Utama:
