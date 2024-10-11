@@ -31,11 +31,10 @@ Cabut Gigi
 Pengguna diminta untuk memilih jenis keluhan atau layanan yang diinginkan dengan memasukkan angka yang sesuai dengan menu perawatan. 
 
 Dalam contoh ini, pengguna memilih opsi nomor 2, yaitu Kontrol Behel.
-Konfirmasi:
 
 Setelah memilih, sistem mengucapkan terima kasih dan meminta pengguna untuk menunggu giliran untuk melakukan kontrol behel.
+Setelah memilih opsi menu nomor 2, Sistem memberikan opsi untuk kembali ke menu utama dengan pertanyaan "Apakah anda ingin kembali ke menu utama?".
 
-Sistem memberikan opsi untuk kembali ke menu utama dengan pertanyaan "Apakah anda ingin kembali ke menu utama?".
 Pengguna memilih "n" (tidak), sehingga sistem mengucapkan terima kasih atas kunjungannya dan berharap keluhan pengguna segera teratasi.
 
 FLOWCHART
