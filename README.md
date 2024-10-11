@@ -40,4 +40,4 @@ Pengguna memilih "n" (tidak), sehingga sistem mengucapkan terima kasih atas kunj
 
 FLOWCHART
 
-![Screenshot 2024-10-11 103632](https://github.com/user-attachments/assets/206730e7-72f2-45a0-b816-93dc3160566a)
+![Screenshot 2024-10-11 132248](https://github.com/user-attachments/assets/ff084708-b14a-4f20-bcbb-8bd2f222b866)
