@@ -1,0 +1,61 @@
+from prettytable import PrettyTable
+
+akun = {
+    "Elfren" : "Perawatan gigi terbaik"
+}
+def login():
+    print("Silahkan login terlebih dahulu.")
+    while True:
+        username = input("Masukkan username: ")
+        password = input("Masukkan password: ")
+
+        if username in akun and akun[username] == password:
+            print("Login berhasil!\n")
+            return username
+        else:
+            print("Username atau password salah. Silahkan coba lagi.\n")
+
+nama = login()
+nama = (input("Masukkan nama anda: "))
+print(f"Halo, {nama}! Selamat datang di Elfren Dental Care.")
+
+def tampilkan_menu():
+    table = PrettyTable()
+    table.field_names = ["No", "Jenis Perawatan"]
+    table.add_rows([
+        [1, "Konsultasi Behel       "],
+        [2, "Kontrol Behel          "],
+        [3, "Scaling                "],
+        [4, "Tambal Gigi Berlubang  "],
+        [5, "Perawatan Saluran Akar "],
+        [6, "Cabut Gigi             "]
+    ])
+    print(table)
+    
+ulang = "y"
+while ulang.lower() == "y":
+    tampilkan_menu()
+
+    try:
+        pilih_menu = int(input("Silahkan Pilih Keluhan Anda: "))
+
+        if pilih_menu == 1:
+            print(f"Terima kasih, {nama}. Untuk konsultasi behel bisa langsung masuk ke ruangan 1. ")
+        elif pilih_menu == 2:
+            print(f"Terima kasih, {nama}. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk kontrol behel. ")
+        elif pilih_menu == 3:
+            print(f"Terima kasih, {nama}. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk scaling. ")
+        elif pilih_menu == 4:
+            print(f"Terima kasih, {nama}. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk tambal gigi berlubang. ")
+        elif pilih_menu == 5:
+            print(f"Terima kasih, {nama}. Silahkan menunggu giliran anda sampai di persilahkan masuk ke ruangan untuk perawatan saluran akar. ")
+        elif pilih_menu == 6:
+            print(f"Terima kasih, {nama}. Silahkan menunggu giliran anda sampai dipersilahkan masuk ke ruangan untuk mencabut gigi. ")
+        else:
+            print("Maaf daftar tidak tersedia.")
+
+    except ValueError:
+        print("Input tidak valid. Silahkan masukkan angka yang sesuai.")
+
+    ulang = input("\nApakah anda ingin kembali ke menu utama? (y/n): ")
+print(f"Terima kasih telah berkunjung, {nama}. Semoga keluhan anda segera teratasi!")
